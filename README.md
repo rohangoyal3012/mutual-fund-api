@@ -3,7 +3,7 @@
 A simple backend project for managing **Mutual Fund investments**, built with **Node.js, Express, MongoDB, and JWT Authentication**.  
 This project allows users to **signup/login, view mutual funds, invest in a fund, and check their portfolio**.
 
----
+----
 
 ## 🚀 Features
 - User authentication with JWT (Signup & Login)
@@ -13,7 +13,7 @@ This project allows users to **signup/login, view mutual funds, invest in a fund
 - Clean architecture (Routes → Controllers → Services → Models)
 - MongoDB + Mongoose for data storage
 
----
+----
 
 ## 🛠️ Tech Stack
 - **Backend**: Node.js, Express.js
